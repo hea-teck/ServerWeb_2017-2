@@ -4,4 +4,4 @@ DB : MySQL (final.sql)
 
 Server : Apache (Bitnami WAMP stack)
 
-Run 'http://localhost/final/index.php'
+Run : 'http://localhost/final/index.php'
